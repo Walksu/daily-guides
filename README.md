@@ -12,23 +12,19 @@
 
 ## 最新 · Latest
 
-## 2026-10-04
+## 2026-10-05
 
-- [Evaluating skill output quality](https://agentskills.io/skill-creation/evaluating-skills)
-  - 中文：Skill 要 with/without 和断言，不能 vibe 验收。
-  - English: Skills need with/without checks and assertions, not vibe acceptance.
+- [CMU AI Agents · Lecture 12 RL Systems slides](https://www.cmu-agents.com/slides/lecture-12-rl-systems.pdf)
+  - 中文：CMU RL 系统讲义：harness 选择如何影响训练效率（不并 AutoCompact）。
+  - English: CMU RL-systems lecture: how harness choice affects training efficiency (not AutoCompact).
 
-- [shareAI-lab/learn-claude-code · s14_mcp_plugin](https://github.com/shareAI-lab/learn-claude-code/tree/main/s14_mcp_plugin)
-  - 中文：MCP 进 harness 要宿主权限策略，服务器 hint 不等于授权。
-  - English: MCP in a harness needs a host permission policy; a server hint is not authorization.
+- [shareAI-lab/learn-claude-code · s15_integrated_harness](https://github.com/shareAI-lab/learn-claude-code/tree/main/s15_integrated_harness)
+  - 中文：一个循环挂齐所有 harness 机制。
+  - English: One loop that wires every harness mechanism together.
 
-- [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)
-  - 中文：先 BM25 再混合再 agent 环。
-  - English: BM25 first, then hybrid retrieval, then the agent loop.
-
-- [11-768 · AI Agents](https://www.cmu-agents.com/)
-  - 中文：10/06 Safety 1 预习；A3 仍未公开，不要等公开再列沙箱门禁。
-  - English: Preview for the 10/06 Safety 1 session; A3 is still unpublished, so do not wait on it before listing sandbox gates.
+- [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook)
+  - 中文：阿里云企业 Agent 白皮书，按角色给阅读路线。
+  - English: Alibaba Cloud enterprise agent white paper with role-based reading paths.
 
 ## 关于 · About
 
