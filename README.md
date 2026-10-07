@@ -12,6 +12,25 @@
 
 ## 最新 · Latest
 
+## 2026-10-07
+
+- [openai/openai-cookbook · agents_api/sandboxes](https://github.com/openai/openai-cookbook/tree/main/examples/agents_api/sandboxes)
+  - 中文：自托管沙箱示例；沙箱里只放执行环境专用钥匙（含 AWS MicroVM）
+  - English: Self-hosted sandbox examples; put only execution-env keys inside the sandbox (includes AWS MicroVM).
+
+- [OpenHands SDK](https://docs.openhands.dev/sdk)
+  - 中文：OpenHands SDK 入门路线，预热 CMU 10/8 Frameworks 1
+  - English: OpenHands SDK getting-started path; warmup for CMU 10/8 Frameworks 1.
+
+- [OpenHands SDK · security](https://docs.openhands.dev/sdk/guides/security)
+  - 中文：动作确认与风险分析；ConfirmRisky 要配模型外的规则分析器
+  - English: Action confirmation and risk analysis; ConfirmRisky needs an out-of-model rule analyzer.
+
+- [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+  - 中文：中文 Agent 路线；评估排在多智能体前（许可证字段 NOASSERTION，转载前看仓内说明）
+  - English: Chinese agent path; eval before multi-agent (license field NOASSERTION—read in-repo notes before reuse).
+
+
 ## 2026-10-05
 
 - [CMU AI Agents · Lecture 12 RL Systems slides](https://www.cmu-agents.com/slides/lecture-12-rl-systems.pdf)
