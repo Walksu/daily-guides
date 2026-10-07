@@ -12,6 +12,17 @@
 
 ## 最新 · Latest
 
+## 2026-10-08
+
+- [What Claude Code Can and Can't Do with Full Access Inside a Docker Sandbox](https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/)
+  - 中文：实测给满权限的 Claude Code 在 Docker 沙箱里能做什么、不能做什么
+  - English: A hands-on test of what full-access Claude Code can and cannot do inside a Docker sandbox.
+
+- [aws-samples/sample-agentcore-memory-openclaw](https://github.com/aws-samples/sample-agentcore-memory-openclaw)
+  - 中文：AWS 官方样例，跨会话记住用户信息（★7，星少不代表质量）
+  - English: An official AWS sample that remembers user details across sessions (★7; low stars do not mean low quality).
+
+
 ## 2026-10-07
 
 - [openai/openai-cookbook · agents_api/sandboxes](https://github.com/openai/openai-cookbook/tree/main/examples/agents_api/sandboxes)
@@ -30,20 +41,6 @@
   - 中文：中文 Agent 路线；评估排在多智能体前（许可证字段 NOASSERTION，转载前看仓内说明）
   - English: Chinese agent path; eval before multi-agent (license field NOASSERTION—read in-repo notes before reuse).
 
-
-## 2026-10-05
-
-- [CMU AI Agents · Lecture 12 RL Systems slides](https://www.cmu-agents.com/slides/lecture-12-rl-systems.pdf)
-  - 中文：CMU RL 系统讲义：harness 选择如何影响训练效率（不并 AutoCompact）。
-  - English: CMU RL-systems lecture: how harness choice affects training efficiency (not AutoCompact).
-
-- [shareAI-lab/learn-claude-code · s15_integrated_harness](https://github.com/shareAI-lab/learn-claude-code/tree/main/s15_integrated_harness)
-  - 中文：一个循环挂齐所有 harness 机制。
-  - English: One loop that wires every harness mechanism together.
-
-- [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook)
-  - 中文：阿里云企业 Agent 白皮书，按角色给阅读路线。
-  - English: Alibaba Cloud enterprise agent white paper with role-based reading paths.
 
 ## 关于 · About
 
